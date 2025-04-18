@@ -1,0 +1,212 @@
+[
+    {
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "title": "Morning Standup",
+        "date": "2025-04-15",
+        "color": "#FF6B6B"
+    },
+    {
+        "startTime": "10:00",
+        "endTime": "11:30",
+        "title": "Client Meeting",
+        "date": "2025-04-15",
+        "color": "#4ECDC4"
+    },
+    {
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "title": "Code Review",
+        "date": "2025-04-16",
+        "color": "#1A535C"
+    },
+    {
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "title": "Marketing Sync",
+        "date": "2025-04-16",
+        "color": "#FF9F1C"
+    },
+    {
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "title": "Lunch with Team",
+        "date": "2025-04-16",
+        "color": "#2E86AB"
+    },
+    {
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "title": "UI/UX Review",
+        "date": "2025-04-17",
+        "color": "#5C5470"
+    },
+    {
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "title": "Backend Discussion",
+        "date": "2025-04-17",
+        "color": "#FFA69E"
+    },
+    {
+        "startTime": "09:30",
+        "endTime": "10:30",
+        "title": "Design Critique",
+        "date": "2025-04-18",
+        "color": "#8AC926"
+    },
+    {
+        "startTime": "14:00",
+        "endTime": "15:30",
+        "title": "Performance Review",
+        "date": "2025-04-18",
+        "color": "#FF595E"
+    },
+    {
+        "startTime": "08:00",
+        "endTime": "08:30",
+        "title": "Quick Sync",
+        "date": "2025-04-18",
+        "color": "#1982C4"
+    },
+    {
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "title": "Interview",
+        "date": "2025-04-19",
+        "color": "#6A0572"
+    },
+    {
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "title": "Team Lunch",
+        "date": "2025-04-19",
+        "color": "#F79D65"
+    },
+    {
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "title": "Strategy Meeting",
+        "date": "2025-04-20",
+        "color": "#2C3E50"
+    },
+    {
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "title": "Sprint Planning",
+        "date": "2025-04-21",
+        "color": "#9C1DE7"
+    },
+    {
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "title": "Scrum Call",
+        "date": "2025-04-21",
+        "color": "#F28482"
+    },
+    {
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "title": "Weekly Wrap-up",
+        "date": "2025-04-21",
+        "color": "#00B4D8"
+    },
+    {
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "title": "Yoga Session",
+        "date": "2025-04-22",
+        "color": "#43AA8B"
+    },
+    {
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "title": "One-on-One",
+        "date": "2025-04-23",
+        "color": "#EF476F"
+    },
+    {
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "title": "Release Review",
+        "date": "2025-04-23",
+        "color": "#FFBE0B"
+    },
+    {
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "title": "Innovation Hour",
+        "date": "2025-04-23",
+        "color": "#8338EC"
+    },
+    {
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "title": "Product Kickoff",
+        "date": "2025-05-02",
+        "color": "#E63946"
+    },
+    {
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "title": "Roadmap Discussion",
+        "date": "2025-05-03",
+        "color": "#457B9D"
+    },
+    {
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "title": "Hiring Sync",
+        "date": "2025-06-10",
+        "color": "#F4A261"
+    },
+    {
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "title": "Feature Review",
+        "date": "2025-06-12",
+        "color": "#2A9D8F"
+    },
+    {
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "title": "Customer Call",
+        "date": "2025-07-05",
+        "color": "#264653"
+    },
+    {
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "title": "Budget Planning",
+        "date": "2025-08-01",
+        "color": "#F77F00"
+    },
+    {
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "title": "Daily Sync",
+        "date": "2025-08-01",
+        "color": "#06D6A0"
+    },
+    {
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "title": "Quarterly Review",
+        "date": "2025-09-15",
+        "color": "#B5179E"
+    },
+    {
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "title": "Lunch with CEO",
+        "date": "2025-10-20",
+        "color": "#118AB2"
+    },
+    {
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "title": "Investor Pitch",
+        "date": "2025-11-11",
+        "color": "#FF006E"
+    }
+]
